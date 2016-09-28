@@ -1,0 +1,17 @@
+README:
+
+
+Python version: 2.7.10
+
+To run:
+
+server code:
+
+python ChatServer.py -sp port
+
+
+Client code:
+
+python ChatClient.py -sip server -sp port
+
+
